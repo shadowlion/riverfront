@@ -6,16 +6,22 @@
     .row
       .col
         b-table-lite(striped hover :fields="fields" :items="items" caption-top)
-          template(slot="table-caption") Look below to view or download the forms you need to register:
-          template(slot="[download]" slot-scope="data")
-            a(:href="data.item.download" _target="blank" download) Download
+          template(#table-caption) Look below to view or download the forms you need to register:
+          template(v-slot:cell(download_link)="data")
+            a(:href="data.item.download" _target="blank" download)
+              download-cloud-icon
 </template>
 
 <script>
+import { DownloadCloudIcon } from "vue-feather-icons";
+
 export default {
+  components: {
+    DownloadCloudIcon
+  },
   data() {
     return {
-      fields: ["file_name", "notes", "download"],
+      fields: ["file_name", "notes", "download_link"],
       items: [
         {
           file_name: "Waiver/Release Form",
