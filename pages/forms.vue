@@ -1,15 +1,16 @@
 <template lang="pug">
-  .container.py-5
-    .row
-      .col
-        h1 Forms
-    .row
-      .col
-        b-table-lite(striped hover :fields="fields" :items="items" caption-top)
-          template(#table-caption) Look below to view or download the forms you need to register:
-          template(v-slot:cell(download_link)="data")
-            a(:href="data.item.download" _target="blank" download)
-              download-cloud-icon
+  main
+    b-container.py-5
+      b-row
+        b-col
+          h1.pb-5.text-center Forms
+      b-row
+        b-col
+          b-table-lite(striped hover :fields="fields" :items="items" caption-top)
+            template(#table-caption) Look below to view or download the forms you need to register:
+            template(v-slot:cell(download_link)="data")
+              a(:href="data.item.download" _target="blank" download)
+                download-cloud-icon
 </template>
 
 <script>

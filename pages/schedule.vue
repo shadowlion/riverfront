@@ -1,10 +1,11 @@
 <template lang="pug">
-  .container.py-5
-    .row
-      .col-3.d-none.d-sm-block
-      .col
-        schedule-content
-      .col-3.d-none.d-sm-block
+  main
+    b-container.py-5
+      b-row
+        .col-3.d-none.d-sm-block
+        b-col
+          schedule-content
+        .col-3.d-none.d-sm-block
 </template>
 
 <script>
