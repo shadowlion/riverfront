@@ -31,19 +31,19 @@ export default {
         },
         {
           title: "Officials",
-          url: "#judges"
+          url: "/officials"
         },
         {
           title: "Vendors",
-          url: "#vendors"
+          url: "/vendors"
         },
         {
           title: "Venue",
-          url: "#venue"
+          url: "/venue"
         },
         {
           title: "Contact",
-          url: "#contact"
+          url: "/contact"
         }
       ]
     };

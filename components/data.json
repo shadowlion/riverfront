@@ -1,0 +1,150 @@
+{
+  "schedule": {
+    "friday": [
+      { "time": "6:30pm - 9:30pm", "event": "Registration" },
+      { "time": "8:00pm", "event": "Competition Seminar" }
+    ],
+    "saturday": {
+      "morning": [
+        { "time": "8:00am", "event": "American Smooth Single Dances" },
+        { "time": "8:55am", "event": "American Smooth Challenges" },
+        { "time": "9:40am", "event": "International Ballroom Single Dances" },
+        { "time": "11:05am", "event": "International Ballroom Challenges" },
+        { "time": "11:50am", "event": "Solo Exhibitions" },
+        { "time": "12:00pm", "event": "End of Session" }
+      ],
+      "afternoon": [
+        { "time": "12:30pm", "event": "Solo Exhibitions & Formation Teams" },
+        { "time": "12:35pm", "event": "American Rhythm Single Dances" },
+        { "time": "1:55pm", "event": "American Rhythm Challenges" },
+        { "time": "2:40pm", "event": "International Latin Single Dances" },
+        { "time": "5:25pm", "event": "International Latin Challenges" },
+        { "time": "6:00pm", "event": "End of Session" }
+      ],
+      "evening": [
+        { "time": "7:30pm", "event": "General Dancing" },
+        { "time": "7:40pm", "event": "American Smooth Scholarships" },
+        { "time": "8:15pm", "event": "International Ballroom Scholarships" },
+        { "time": "8:45pm", "event": "Top Solos & Formation Challenges" },
+        { "time": "9:05pm", "event": "American Rhythm Scholarships" },
+        { "time": "9:40pm", "event": "International Latin Scholarships" },
+        {
+          "time": "10:20pm",
+          "event": "SHOWTIME - American Rhythm dancers, Aaron & Iryna Desoto"
+        },
+        { "time": "10:50pm", "event": "TOP AWARDS followed by the AFTERPARTY" }
+      ]
+    }
+  },
+  "vendors": [
+    {
+      "name": "VE Dance",
+      "role": "Dance Attire",
+      "phone": "630-204-8122",
+      "email": "info@vedance.com",
+      "site": "https://www.vedance.com",
+      "imgSrc": "https://www.vedance.com/images/VELogo.png"
+    },
+    {
+      "name": "The Dancer In You",
+      "role": "Dance Attire",
+      "phone": "330-608-4444",
+      "email": "info@thedancerinyou.com",
+      "site": "http://thedancerinyou.com/",
+      "imgSrc":
+        "http://riverfrontdancesportfestival.com/assets/images/danceinyou-logo-2.png"
+    },
+    {
+      "name": "Elle Dance Studio",
+      "role": "Dance Attire",
+      "phone": "770-641-2716",
+      "site": "https://elledancestudio.com/",
+      "imgSrc":
+        "http://riverfrontdancesportfestival.com/assets/images/ElleDanceStudio-sm.jpg"
+    },
+    {
+      "name": "Glamour Puss",
+      "role": "Hair/Makeup",
+      "phone": "302-323-1933",
+      "email": "lisa@glamrpuss.com",
+      "site": "http://GlamrPuss.com",
+      "imgSrc":
+        "http://riverfrontdancesportfestival.com/assets/images/Glamour-puss.jpg"
+    },
+    {
+      "name": "Video Pro Productions",
+      "role": "Video/Photography",
+      "phone": "513-742-6262",
+      "site": "http://VideoProProductionsg.photoreflect.com",
+      "imgSrc":
+        "http://riverfrontdancesportfestival.com/assets/images/video-pro-sm.jpg"
+    }
+  ],
+  "officials": [
+    {
+      "name": "Sam Sodano",
+      "role": "Chairman",
+      "imgUrl": "https://picsum.photos/400/200/?image=41"
+    },
+    {
+      "name": "Linda Jackson",
+      "role": "Adjudicator",
+      "imgUrl": "https://placekitten.com/500/350"
+    },
+    {
+      "name": "Donald Johnson",
+      "role": "Adjudicator",
+      "imgUrl": "https://picsum.photos/300/300/?image=43"
+    },
+    {
+      "name": "Kimberley Mitchell",
+      "role": "Adjudicator",
+      "imgUrl": ""
+    },
+    {
+      "name": "Marianne Nicole",
+      "role": "Adjudicator",
+      "imgUrl": ""
+    },
+    {
+      "name": "Igor Pilipenchuk",
+      "role": "Adjudicator",
+      "imgUrl": ""
+    },
+    {
+      "name": "Polina Pilipenchuk",
+      "role": "Adjudicator",
+      "imgUrl": ""
+    },
+    {
+      "name": "Kirsti Roslender",
+      "role": "Adjudicator",
+      "imgUrl": ""
+    },
+    {
+      "name": "John DePalma",
+      "role": "Master of Ceremones",
+      "imgUrl": ""
+    },
+    {
+      "name": "Cindy Bruce Johnson",
+      "role": "Scrutineer",
+      "imgUrl": ""
+    },
+    {
+      "name": "Brenda Burger",
+      "role": "Registrar",
+      "imgUrl": ""
+    },
+    {
+      "name": "Rick Popp",
+      "role": "Music Director",
+      "imgUrl": ""
+    },
+    {
+      "name": "Tom Larson",
+      "role": "Percussionist",
+      "imgUrl": ""
+    }
+  ]
+}
