@@ -6,7 +6,7 @@
         b-card(
           v-for="(vendor, index) in vendors"
           :key="index"
-          :img-src="vendor.imgSrc"
+          :img-src="require(`@/assets/vendor/${vendor.imgSrc}`)"
           img-top
           :title="vendor.name"
         )

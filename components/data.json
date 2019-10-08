@@ -43,7 +43,7 @@
       "phone": "630-204-8122",
       "email": "info@vedance.com",
       "site": "https://www.vedance.com",
-      "imgSrc": "https://www.vedance.com/images/VELogo.png"
+      "imgSrc": "ve-logo.png"
     },
     {
       "name": "The Dancer In You",
@@ -51,16 +51,14 @@
       "phone": "330-608-4444",
       "email": "info@thedancerinyou.com",
       "site": "http://thedancerinyou.com/",
-      "imgSrc":
-        "http://riverfrontdancesportfestival.com/assets/images/danceinyou-logo-2.png"
+      "imgSrc": "diy-logo.png"
     },
     {
       "name": "Elle Dance Studio",
       "role": "Dance Attire",
       "phone": "770-641-2716",
       "site": "https://elledancestudio.com/",
-      "imgSrc":
-        "http://riverfrontdancesportfestival.com/assets/images/ElleDanceStudio-sm.jpg"
+      "imgSrc": "eds-logo.jpg"
     },
     {
       "name": "Glamour Puss",
@@ -68,16 +66,14 @@
       "phone": "302-323-1933",
       "email": "lisa@glamrpuss.com",
       "site": "http://GlamrPuss.com",
-      "imgSrc":
-        "http://riverfrontdancesportfestival.com/assets/images/Glamour-puss.jpg"
+      "imgSrc": "gp-logo.jpg"
     },
     {
       "name": "Video Pro Productions",
       "role": "Video/Photography",
       "phone": "513-742-6262",
       "site": "http://VideoProProductionsg.photoreflect.com",
-      "imgSrc":
-        "http://riverfrontdancesportfestival.com/assets/images/video-pro-sm.jpg"
+      "imgSrc": "vpp-logo.jpg"
     }
   ],
   "officials": [
