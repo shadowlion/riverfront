@@ -7,7 +7,7 @@
           b-img.mt-4(
             thumbnail
             fluid
-            src="https://cincinnatiusa.com/sites/default/files/styles/Array/public/hotels/Hyatt%20Regency%20Cincinnati%20Lobby%20%231%204229-01_photo_Rion%20Rizzo.jpg"
+            src="~assets/venue/hotel1.jpg"
           )
         b-col.py-4(md="6" sm="12")
           p The dance venue and hotel for the 2019 Riverfront Dancesport Festival is at the beautiful Hyatt Regency Cincinnati in downtown Cincinnati. Please book your room as soon as possible. When booking, please mention that you are with the Riverfront Dancesport Festival to take advantage of available room discounts. Be sure to use the group code
@@ -41,19 +41,19 @@
           b-img(
             thumbnail
             fluid
-            src="http://riverfrontdancesportfestival.com/assets/images/Hyatt-Hotel2b.jpg"
+            src="~assets/venue/hotel2.jpg"
           )
         b-col.py-2(md="4" sm="12")
           b-img(
             thumbnail
             fluid
-            src="http://riverfrontdancesportfestival.com/assets/images/Hyatt-Hotel3.jpg"
+            src="~assets/venue/hotel3.jpg"
           )
         b-col.py-2(md="4" sm="12")
           b-img(
             thumbnail
             fluid
-            src="http://riverfrontdancesportfestival.com/assets/images/Hyatt-Hotel4.jpg"
+            src="~assets/venue/hotel4.jpg"
           )
 </template>
 
