@@ -1,5 +1,8 @@
 <template lang="pug">
-  b-card(:img-src="require(`@/assets/vendors/${vendor.imgSrc}`)" img-top)
+  b-card(
+    :img-src="vendor.imgSrc ? require(`@/assets/vendors/${vendor.imgSrc}`) : ''"
+    img-top
+  )
     b-card-title {{ vendor.name }}
     b-card-text.my-0
       b-link(

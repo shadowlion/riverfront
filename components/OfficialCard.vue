@@ -1,9 +1,10 @@
 <template lang="pug">
-  b-card
-    //- b-card-img(:src="require(`@/assets/officials/${official.imgSrc}`)" top)
+  b-card(
+    :img-src="official.imgSrc ? `/officials/${official.imgSrc}` : ''"
+    img-top
+  )
     b-card-text {{ official.name }}
-      |
-      |
+      br
       small.text-muted ({{ official.role }})
 </template>
 
