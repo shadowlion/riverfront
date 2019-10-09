@@ -1,6 +1,6 @@
 <template lang="pug">
   b-card(
-    :img-src="require(`@/assets/vendor/${vendor.imgSrc}`)"
+    :img-src="require(`@/assets/vendors/${vendor.imgSrc}`)"
     img-top
     :title="vendor.name"
   )

@@ -18,7 +18,7 @@
                   thumbnail
                   width="100"
                   v-if="contact.img && contact.img.length > 0"
-                  :src="require(`@/assets/contact/${contact.img}`)"
+                  :src="require(`@/assets/contacts/${contact.img}`)"
                 )
                 b-img(
                   thumbnail
