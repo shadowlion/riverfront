@@ -80,67 +80,67 @@
     {
       "name": "Sam Sodano",
       "role": "Chairman",
-      "imgUrl": "https://picsum.photos/400/200/?image=41"
+      "imgSrc": "sam_sodano.jpg"
     },
     {
       "name": "Linda Jackson",
       "role": "Adjudicator",
-      "imgUrl": "https://placekitten.com/500/350"
+      "imgSrc": "linda_jackson.jpg"
     },
     {
       "name": "Donald Johnson",
       "role": "Adjudicator",
-      "imgUrl": "https://picsum.photos/300/300/?image=43"
+      "imgSrc": "donald_johnson.jpg"
     },
     {
       "name": "Kimberley Mitchell",
       "role": "Adjudicator",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "Marianne Nicole",
       "role": "Adjudicator",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "Igor Pilipenchuk",
       "role": "Adjudicator",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "Polina Pilipenchuk",
       "role": "Adjudicator",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "Kirsti Roslender",
       "role": "Adjudicator",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "John DePalma",
       "role": "Master of Ceremones",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "Cindy Bruce Johnson",
       "role": "Scrutineer",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "Brenda Burger",
       "role": "Registrar",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "Rick Popp",
       "role": "Music Director",
-      "imgUrl": ""
+      "imgSrc": ""
     },
     {
       "name": "Tom Larson",
       "role": "Percussionist",
-      "imgUrl": ""
+      "imgSrc": ""
     }
   ]
 }
