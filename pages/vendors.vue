@@ -10,17 +10,17 @@
           img-top
           :title="vendor.name"
         )
-          b-card-text
+          b-card-text.my-0
             b-link(
               v-if="vendor.phone"
               :href="`tel:${vendor.phone}`"
             ) {{ vendor.phone }}
-          b-card-text
+          b-card-text.my-0
             b-link(
               v-if="vendor.email"
               :href="`mailto:${vendor.email}`"
             ) {{ vendor.email }}
-          b-card-text
+          b-card-text.mb-4
             b-link(
               v-if="vendor.site"
               :href="vendor.site"
