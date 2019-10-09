@@ -1,8 +1,5 @@
 <template lang="pug">
-  b-card(
-    :img-src="vendor.imgSrc ? require(`@/assets/vendors/${vendor.imgSrc}`) : ''"
-    img-top
-  )
+  b-card(:img-src="imgFile" img-top)
     b-card-title {{ vendor.name }}
     b-card-text.my-0
       b-link(
@@ -52,6 +49,12 @@ export default {
         type: String,
         required: true
       }
+    }
+  },
+  computed: {
+    imgFile() {
+      const imgSrc = this.vendor.imgSrc;
+      return imgSrc ? require(`@/assets/vendors/${imgSrc}`) : "";
     }
   }
 };

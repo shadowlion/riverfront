@@ -1,8 +1,5 @@
 <template lang="pug">
-  b-card(
-    :img-src="official.imgSrc ? `/officials/${official.imgSrc}` : ''"
-    img-top
-  )
+  b-card(:img-src="imgFile" img-top)
     b-card-text {{ official.name }}
       br
       small.text-muted ({{ official.role }})
@@ -26,6 +23,11 @@ export default {
         type: String,
         required: true
       }
+    }
+  },
+  computed: {
+    imgFile() {
+      return this.official.imgSrc ? `/officials/${this.official.imgSrc}` : "";
     }
   }
 };
