@@ -67,7 +67,7 @@ export default {
           email: "DanceSparks@aol.com"
         },
         {
-          img: "",
+          img: "brenda.jpg",
           name: "Brenda Burger",
           role: "Registrar",
           phone: "740-969-2431",
