@@ -8,7 +8,7 @@
         b-col
           b-table-lite(striped hover :fields="fields" :items="items" caption-top)
             template(#table-caption) Look below to view or download the forms you need to register:
-            template(v-slot:cell(download_link)="data")
+            template(#cell(download_link)="data")
               a(:href="data.item.download" _target="blank" download)
                 download-cloud-icon
 </template>
@@ -22,7 +22,11 @@ export default {
   },
   data() {
     return {
-      fields: ["file_name", "notes", "download_link"],
+      fields: [
+        "file_name",
+        "notes",
+        { key: "download_link", class: "text-center" }
+      ],
       items: [
         {
           file_name: "Waiver/Release Form",
