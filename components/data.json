@@ -2,7 +2,7 @@
   "schedule": {
     "friday": [
       { "time": "6:30pm - 9:30pm", "event": "Registration" },
-      { "time": "8:00pm", "event": "Competition Seminar" }
+      { "time": "8:00pm", "event": "Pre-Competition Seminar" }
     ],
     "saturday": {
       "morning": [
