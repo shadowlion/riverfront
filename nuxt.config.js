@@ -35,7 +35,13 @@ export default {
     // Doc: https://bootstrap-vue.js.org/docs/
     "bootstrap-vue/nuxt",
     "@nuxtjs/pwa",
-    "@nuxtjs/eslint-module"
+    "@nuxtjs/eslint-module",
+    [
+      "@nuxtjs/google-analytics",
+      {
+        id: "UA-149846348-1"
+      }
+    ]
   ],
   /*
    ** Build configuration
