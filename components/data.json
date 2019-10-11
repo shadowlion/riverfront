@@ -44,14 +44,6 @@
   },
   "vendors": [
     {
-      "name": "VE Dance",
-      "role": "Dance Attire",
-      "phone": "630-204-8122",
-      "email": "info@vedance.com",
-      "site": "https://www.vedance.com",
-      "imgSrc": "ve-logo.png"
-    },
-    {
       "name": "The Dancer In You",
       "role": "Dance Attire",
       "phone": "330-608-4444",
@@ -65,6 +57,14 @@
       "phone": "770-641-2716",
       "site": "https://elledancestudio.com/",
       "imgSrc": "eds-logo.jpg"
+    },
+    {
+      "name": "DanZann2",
+      "role": "Dance Attire",
+      "phone": "917-681-9761",
+      "email": "danzann2011@hotmail.com",
+      "site": "https://www.facebook.com/danzann",
+      "imgSrc": "dan-zann.jpg"
     },
     {
       "name": "Glamour Puss",
