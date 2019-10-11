@@ -1,8 +1,12 @@
-# riverfront
+# Riverfront Dancesport Festival Website
 
-> Riverfront Dancesport Festival event site
+> Let the river move you!
 
-## Build Setup
+## Introduction
+
+New competition website for the Riverfront Dancesport Festival, a one-day dancesport competition held in Cincinnati, OH. A basic frontend site that serves a few assets (images, pdfs) and discloses contact information.
+
+## Development Setup
 
 ``` bash
 # install dependencies
@@ -20,3 +24,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## Author
+
+[Justin Chiou](https://github.com/shadowlion) - [email me!](mailto:chiou.kai@gmail.com)
