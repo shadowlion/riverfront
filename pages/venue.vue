@@ -3,20 +3,26 @@
     b-container.py-5
       h1.pb-5.text-center Venue Information
       b-row
-        b-col(md="6" sm="12")
+        b-col.pb-3(md="6" sm="12")
           b-img(
             thumbnail
             fluid
             src="~assets/venues/hotel1.jpg"
           )
-        b-col.pb-4(md="6" sm="12")
-          p The dance venue and hotel for the 2019 Riverfront Dancesport Festival is at the beautiful Hyatt Regency Cincinnati in downtown Cincinnati. Please book your room as soon as possible. When booking, please mention that you are with the Riverfront Dancesport Festival to take advantage of available room discounts. Be sure to use the group code
+        b-col(md="6" sm="12")
+          p The dance venue and hotel for the 2020 Riverfront Dancesport Festival is at the beautiful
             |
             |
-            span.font-weight-bold G-ARDS
+            a(href="https://www.hyatt.com/en-US/hotel/ohio/hyatt-regency-cincinnati/cinci") Hyatt Regency Cincinnati
             |
             |
-            | and enter the dates appropriate for the 2019 Riverfront Dancesport Festival (e.g. Jan. 11-12, 2019).
+            | in downtown Cincinnati. Please book your room as soon as possible. When booking, please mention that you are with the Riverfront Dancesport Festival to take advantage of available room discounts. Be sure to use the group code
+            |
+            |
+            strong G-ARDS
+            |
+            |
+            | and enter the dates appropriate for the 2020 Riverfront Dancesport Festival (e.g. Jan. 10-11).
           p
             address
               strong Hotel Location:
@@ -32,7 +38,7 @@
               |
               b-link(href="tel:5135791234") (513)-579-1234
               br
-              b-link(href="http://cincinnati.hyatt.com/") Website
+              b-link(href="https://www.hyatt.com/en-US/hotel/ohio/hyatt-regency-cincinnati/cinci") Website
               |
               |
               | (Map info and directions available)
