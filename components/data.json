@@ -1,8 +1,11 @@
 {
   "schedule": {
     "friday": [
-      { "time": "6:30pm - 9:30pm", "event": "Registration" },
-      { "time": "8:00pm", "event": "Pre-Competition Seminar" }
+      { "time": "6:00pm - 9:30pm", "event": "Registration" },
+      {
+        "time": "8:00pm",
+        "event": "Pre-Competition Seminar with Kyle & Allie*"
+      }
     ],
     "saturday": {
       "morning": [
@@ -10,7 +13,7 @@
         { "time": "8:55am", "event": "American Smooth Challenges" },
         { "time": "9:40am", "event": "International Ballroom Single Dances" },
         { "time": "11:05am", "event": "International Ballroom Challenges" },
-        { "time": "11:50am", "event": "Solo Exhibitions" },
+        { "time": "11:50am", "event": "Solo Exhibitions*" },
         { "time": "12:00pm", "event": "End of Session" }
       ],
       "afternoon": [
@@ -25,14 +28,17 @@
         { "time": "7:30pm", "event": "General Dancing" },
         { "time": "7:40pm", "event": "American Smooth Scholarships" },
         { "time": "8:15pm", "event": "International Ballroom Scholarships" },
-        { "time": "8:45pm", "event": "Top Solos & Formation Challenges" },
+        { "time": "8:45pm", "event": "Top Solos & Formation Challenges*" },
         { "time": "9:05pm", "event": "American Rhythm Scholarships" },
         { "time": "9:40pm", "event": "International Latin Scholarships" },
         {
           "time": "10:20pm",
-          "event": "SHOWTIME - American Rhythm dancers, Aaron & Iryna Desoto"
+          "event": "SHOWTIME - American Smooth dancers, Kyle & Allie Spinder"
         },
-        { "time": "10:50pm", "event": "TOP AWARDS followed by the AFTERPARTY" }
+        {
+          "time": "10:50pm",
+          "event": "TOP AWARDS, followed by the AFTER PARTY*"
+        }
       ]
     }
   },

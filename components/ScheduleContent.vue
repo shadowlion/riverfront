@@ -22,9 +22,16 @@
       template(#sessionTitle)
         h3.py-3 Afternoon Session
     b-alert(variant="info" show) Dinner will be served 5:30pm - 7:30pm
-    schedule-table(:items="saturdayEvening")
+    schedule-table.pb-4(:items="saturdayEvening")
       template(#sessionTitle)
         h3.py-3 Evening Session
+    .text-muted
+      small
+        | *After Party tickets + Pre-Sompetition Seminar are included with Packages A & B.
+        br
+        | *A-La-Carte After Party tickets are available for purchase at the Registration desk.
+        br
+        | *If performing a Solo or Formation, music can only be accepted from a Flash Drive.
 </template>
 
 <script>
