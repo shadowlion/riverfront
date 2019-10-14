@@ -10,10 +10,10 @@
             | 7227 Edenborough Court
             br
             | Lancaster, OH 43130
-          | If there are any questions on registration, contact
+          | If there are any questions on registration,
           |
           |
-          nuxt-link(to="/contact") Brenda.
+          nuxt-link(to="/contact") contact Brenda.
           |
           |
           | You can also fax her all the completed registration and entry forms, but payment will need to be sent to above mail address, along with a copy of the same completed registration and entry forms.
@@ -27,10 +27,14 @@
       b-alert(show variant="info")
         p To qualify and earn additional points for Early Rewards, entries and payments must be received by December 15, 2019.
         p.mb-0 Normal entry deadline is December 31, 2019.
-      b-alert(show variant="warning") Competitor Entry Fee and Package Pricing forms are password-protected. Contact
+      b-alert(show variant="warning")
+        strong Note:
         |
         |
-        nuxt-link(to="/contact") Brenda
+        | The Competitor Entry and Package Pricing form is password-protected.
+        |
+        |
+        nuxt-link(to="/contact") Contact Brenda
         |
         |
         | for the password.
