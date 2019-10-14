@@ -27,11 +27,11 @@
         h3.py-3 Evening Session
     .text-muted
       small
-        | *After Party tickets + Pre-Sompetition Seminar are included with Packages A & B.
+        | *After Party tickets + Pre-Competition Seminar are included with Packages A & B.
         br
         | *A-La-Carte After Party tickets are available for purchase at the Registration desk.
         br
-        | *If performing a Solo or Formation, music can only be accepted from a Flash Drive.
+        | *If performing a Solo or Formation, music can only be accepted via Flash Drive.
 </template>
 
 <script>
