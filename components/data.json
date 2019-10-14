@@ -148,5 +148,52 @@
       "role": "Percussionist",
       "imgSrc": ""
     }
+  ],
+  "docs": [
+    {
+      "file_name": "Waiver/Release Form",
+      "notes": "Required",
+      "download": "WaiverReleaseForm"
+    },
+    {
+      "file_name": "General Admission Ticket Form",
+      "notes": "",
+      "download": "GATicket"
+    },
+    {
+      "file_name": "American Style Entry Form",
+      "notes": "",
+      "download": "AmEntryForm"
+    },
+    {
+      "file_name": "Rhythm Compulsory Scholarship Form",
+      "notes": "",
+      "download": "AmRhythmCompEntryform"
+    },
+    {
+      "file_name": "International Style Entry Form",
+      "notes": "",
+      "download": "IntEntryForm"
+    },
+    {
+      "file_name": "Solo Scholarship Entry Form",
+      "notes": "",
+      "download": "SoloEntryForm"
+    },
+    {
+      "file_name": "Formation Exhibition Entry Form",
+      "notes": "",
+      "download": "FormationEntryForm"
+    },
+    {
+      "file_name": "Summary Form",
+      "notes": "Required",
+      "download": "Summary"
+    },
+    {
+      "file_name": "Competitor Entry and Package Pricing",
+      "notes": "",
+      "download": "PackagePrices-pw"
+    }
   ]
 }
