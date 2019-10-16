@@ -200,5 +200,11 @@
       "notes": "",
       "download": "FormationEntryForm"
     }
+  ],
+  "prizes": [
+    {
+      "title": "Closed Scholarship Awards",
+      "list": ["$100", "$75", "$50"]
+    }
   ]
 }
