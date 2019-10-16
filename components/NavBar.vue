@@ -30,6 +30,10 @@ export default {
           url: "/schedule"
         },
         {
+          title: "Prizes",
+          url: "/prizes"
+        },
+        {
           title: "Officials",
           url: "/officials"
         },
