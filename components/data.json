@@ -203,8 +203,72 @@
   ],
   "prizes": [
     {
-      "title": "Closed Scholarship Awards",
-      "list": ["$100", "$75", "$50"]
+      "title": "Closed Scholarship Categories",
+      "list": [
+        "Closed Bronze American Rhythm - 3 dance",
+        "Closed Silver American Rhythm - 3 dance",
+        "Closed Bronze American Smooth - 3 dance",
+        "Closed Silver American Smooth - 3 dance",
+        "Closed Bronze International Latin - 3 dance",
+        "Closed Silver International Latin - 3 dance",
+        "Closed Bronze International Standard - 3 dance",
+        "Closed Silver International Standard - 3 dance"
+      ]
+    },
+    {
+      "title": "Open Scholarship Categories",
+      "list": [
+        "Open American Rhythm -  5 dance",
+        "Open American Smooth -  4 dance",
+        "Open International Standard -  5 dance",
+        "Open International Latin -  5 dance"
+      ]
+    },
+    {
+      "title": "Closed/Open Scholarship Awards",
+      "list": ["1st Place: $100", "2nd Place: $75", "3rd Place: $50"]
+    },
+    {
+      "title": "Solo Grand Challenge Scholarship Awards",
+      "list": ["1st Place: $80", "2nd Place: $50", "3rd Place: $30"]
+    },
+    {
+      "title": "Rhythm Compulsory Scholarship Awards",
+      "list": ["1st Place: $50", "2nd Place: $40", "3rd Place: $25"]
+    },
+    {
+      "title": "Early Entry Rewards",
+      "text": "Receive 1 point for every single dance and 3 points for each multi dance entry that goes towards Top Teacher for the Riverfront Top Teacher prize money! Please see the Rules/Policies form for details."
+    },
+    {
+      "title": "Teacher's $$$ Pot of Gold $$$ Details",
+      "text": "Teachers, we value the contribution you bring to our competition, and we want to reward you for supporting the Riverfront Dancesport Festival. Qualifying teachers will receive $$$ CASH BACK $$$ based on the number of paid Pro/Am entries danced. Please see the Rules/Policies form for details on $$$ Pot of Gold $$$ incentives for teachers."
+    },
+    {
+      "title": "Top Teacher",
+      "text": "Note: Top Teacher scholarship is paid in addition to the lucrative $$$ Pot of Gold $$$.",
+      "list": ["1st Place: $1200", "2nd Place: $600", "3rd Place: $400"]
+    },
+    {
+      "title": "Top Teacher (Overall, All Styles)",
+      "list": ["1st Place: $250"]
+    },
+    {
+      "title": "Top Student Awards",
+      "text": "An award will be presented to the Top Newcomer, Bronze, Silver, Gold, and Amateur Couple. Calculations are based on number of entries and placement points."
+    },
+    {
+      "title": "Top Studio Awards",
+      "text": "An award will be presented to the Top 3 Studios. Calculations are based on the number of packages, entries, and placement points. Please see the Rules/Policies form for details on Top Studio."
+    },
+    {
+      "title": "MVP - Multi Voucher Points Event",
+      "text": "Receive double points for each Multi-Dance event you enter.",
+      "list": [
+        "1st Place: $4 Voucher",
+        "2nd Place: $2 Voucher",
+        "3rd Place: $1.50 Voucher"
+      ]
     }
   ]
 }
