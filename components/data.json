@@ -151,6 +151,11 @@
   ],
   "docs": [
     {
+      "file_name": "Rules and Policies",
+      "notes": "Please read",
+      "download": "RulesAndPolicies"
+    },
+    {
       "file_name": "Waiver/Release Form",
       "notes": "Required",
       "download": "WaiverReleaseForm"
