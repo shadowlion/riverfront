@@ -1,5 +1,5 @@
 <template lang="pug">
-  .jumbotron.jumbotron-fluid.bg-pic.text-center.mb-5.text-light.bg-variant-transparent
+  .jumbotron.jumbotron-fluid.bg-pic.text-center.mb-0.text-light.bg-variant-transparent
     b-container
       h1.display-3.d-none.d-md-block Riverfront Dancesport Festival
       h1.display-4.d-block.d-md-none Riverfront Dancesport Festival
@@ -11,7 +11,7 @@
 
 <style scoped>
 .bg-pic {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)),
     url("~assets/hero.webp");
   background-repeat: no-repeat;
   background-size: cover;
