@@ -10,10 +10,19 @@
             :key="index"
             :to="link.url"
           ) {{ link.title }}
+          b-nav-item(
+            href="https://facebook.com/riverfrontdancesportfestival"
+          )
+            facebook-icon
 </template>
 
 <script>
+import { FacebookIcon } from "vue-feather-icons";
+
 export default {
+  components: {
+    FacebookIcon
+  },
   data() {
     return {
       sidebarLinks: [
