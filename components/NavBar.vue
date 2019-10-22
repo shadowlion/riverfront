@@ -1,7 +1,8 @@
 <template lang="pug">
   b-navbar.py-3(toggleable="sm" type="dark" variant="dark")
     b-container
-      b-navbar-brand(href="/") RDF
+      b-navbar-brand(href="/")
+        b-img(:src="require(`@/assets/logo.png`)" height="50" alt="RDF")
       b-navbar-toggle(target="nav-collapse")
       b-collapse#nav-collapse(is-nav)
         b-navbar-nav.ml-auto
